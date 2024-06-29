@@ -1,0 +1,14 @@
+[ethereum]
+bsc_rpc_url_ws=
+bsc_rpc_url=
+
+test_addr_1=
+test_private_1=
+
+admin_addr=
+admin_private=
+
+oracle_address =
+
+[compute_service]
+url = http://localhost:3000/compute
