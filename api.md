@@ -21,7 +21,7 @@ generator: "@tarslib/widdershins v4.0.23"
 
 # sight AI Interview
 
-Base URLs:
+Base URLs: http://localhost:8080
 
 # Authentication
 

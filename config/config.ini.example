@@ -1,14 +1,14 @@
 [ethereum]
-bsc_rpc_url_ws=
-bsc_rpc_url=
+bsc_rpc_url_ws=wss://lively-rough-star.bsc-testnet.quiknode.pro/7cec1d14ebe93e5fd1941e8be806cf0e08252b74/
+bsc_rpc_url=https://bsc-testnet-dataseed.bnbchain.org
 
 test_addr_1=
 test_private_1=
 
-admin_addr=
-admin_private=
+admin_addr=0xc0ee714715108b1a6795391f7e05a044d795ba70
+admin_private=641943fa6c3fab18fed274c2b3194f0d71383ecfb9a58b2d70188e693c245510
 
-oracle_address =
+oracle_address = 0xb4a0CEDE9f7De377913085e7035901c784843cdB
 
 [compute_service]
 url = http://localhost:3000/compute
