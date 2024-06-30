@@ -1,3 +1,7 @@
+# Pre requirements
+- Start local 3000 port computing service  
+# Quick start
+
 1. Rename the `config/config.ini.example` file by removing the `.example` suffix, making it `config/config.ini`.
 
 2. In the `config/config.ini` file, fill in the following parameters:
@@ -12,5 +16,6 @@
    go run cmd/main.go
    ```
 4. Interact with API on api.md
+`http://localhost:8080/compute`
 
 
